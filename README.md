@@ -8,4 +8,10 @@
 
 具体代码见该目录下的.py文件
 
-数据集及相应数据标签见该目录下的data文件夹
+数据集下载地址：
+
+训练集：http://lixirong.net/teaching/prcv20/dr_train.zip 
+
+验证集：http://lixirong.net/teaching/prcv20/dr_val.zip 
+
+测试集：http://lixirong.net/teaching/prcv20/dr_test_no_labels.zip
